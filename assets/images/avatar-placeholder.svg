@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Avatar">
+<g clip-path="url(#clip0_0_115)">
+<rect width="80" height="80" rx="40" fill="#F8F5FF"/>
+<circle id="Head" cx="40" cy="32" r="15" fill="#6F2CFE" fill-opacity="0.35"/>
+<circle id="Shoulders" cx="40" cy="83" r="29" fill="#6F2CFE" fill-opacity="0.35"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_115">
+<rect width="80" height="80" rx="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>
